@@ -12,7 +12,8 @@ do
     clear
     echo ¿Que modificaciones desea realizar? 
  echo ""   
- echo "         a. Comentar el usuario
+ echo "             
+                a. Comentar el usuario
 
         	b. Agregar al usuario a otros grupos (secundarios)
 
@@ -31,8 +32,6 @@ do
         	i. Bloquear usuario
 
         	j. Desboquear usuario
-
-        	k. Eliminar a un Usuario de un Grupo
     
        		v. Volver al Menu de Usuarios"
 
