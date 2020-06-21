@@ -32,6 +32,8 @@ do
         	i. Bloquear usuario
 
         	j. Desboquear usuario
+
+                k. Cambiar contraseña
     
        		v. Volver al Menu de Usuarios"
 
@@ -78,6 +80,10 @@ do
 
     j|J)
         ./ModDesbloquearUser.sh
+    ;;
+
+    k|K)
+        ./ModCambiarPwd.sh
     ;;
 
     v|V)
