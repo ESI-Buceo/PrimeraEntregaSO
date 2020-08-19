@@ -1,0 +1,3 @@
+Sentencia para programar Crontab
+
+00 12 * * * /home/ScriptRespaldar.sh
